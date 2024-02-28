@@ -1212,3 +1212,7 @@ section {
   font-size: 13px;
 }
 
+.img-fluid {
+  border-radius: 1rem;
+  border: 8px solid #f9871c;
+}
